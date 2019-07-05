@@ -39,7 +39,7 @@ def hit?
 end
 
 def invalid_command
-  # code invalid_command here
+  puts "Command not recognized. Enter: 'Hit' or 'Stay'"
 end
 
 #####################################################
