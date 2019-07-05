@@ -4,6 +4,7 @@ end
 
 def deal_card
   card_1 = rand(11)
+  puts card_1
 end
 
 def display_card_total
